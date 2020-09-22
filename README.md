@@ -2,6 +2,7 @@
 This is the GitHub source code repository for the octo MAX31855 breakout board sold by Neem Tech on eBay and Amazon.
 
 https://www.ebay.com/usr/neemtech
+
 https://www.amazon.com/s?me=AH0OQAWQBELD0&marketplaceID=ATVPDKIKX0DER
 
 This respository offers the following functionality:
