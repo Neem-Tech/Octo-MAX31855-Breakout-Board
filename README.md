@@ -18,4 +18,5 @@ This repository contains the following files:
 5. README         - This file
 
 To install the Arduino MAX31855 Library, please refer to:
+
 http://arduino.cc/en/Guide/Libraries
