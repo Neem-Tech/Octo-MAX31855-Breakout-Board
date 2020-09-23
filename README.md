@@ -1,4 +1,4 @@
-# Octo-MAX31855-Breakout-Board
+# Octo MAX31855 Breakout Board
 Welcome to the official GitHub source code repository for the octo MAX31855 breakout board.
 
 The board is sold by Neem Tech on eBay and Amazon.
