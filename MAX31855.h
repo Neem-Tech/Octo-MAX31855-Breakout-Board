@@ -1,11 +1,6 @@
 /*
   This is a library for the octo MAX31855 thermocouple breakout board.
-  
-  Look for the boards on eBay or Amazon.
-  
-  https://www.ebay.com/usr/neemtech
-  https://www.amazon.com/s?me=AH0OQAWQBELD0&marketplaceID=ATVPDKIKX0DER
-  
+ 
   
   MIT License
   
