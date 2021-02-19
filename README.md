@@ -1,11 +1,7 @@
 # Octo MAX31855 Breakout Board
 Welcome to the official GitHub source code repository for the octo MAX31855 breakout board.
 
-The board is sold by Neem Tech on eBay and Amazon.
-
-https://www.ebay.com/usr/neemtech
-
-https://www.amazon.com/s?me=AH0OQAWQBELD0&marketplaceID=ATVPDKIKX0DER
+The board is sold by Neem Tech.
 
 The features listed below are included in the repository:
 1. Can read the temperatures of the reference junction (IC) and the thermocouples
